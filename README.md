@@ -2,7 +2,7 @@
 
 The sizes of widgets for select iPhones and iPads. The sizes where measured using the GeometryReader in SwiftUI.
 
-# iOS 15
+## iOS 15
 
 |Device|Resolution|Small|Medium|Large|
 |-|-|-|-|-|
@@ -31,7 +31,7 @@ The sizes of widgets for select iPhones and iPads. The sizes where measured usin
 |iPhone SE (2nd generation)|1334 x 750|148 x 148|321 x 148|321 x 324|
 |iPod touch (7th generation)|640 x 1136|141 x 141|292 x 141|292 x 311|
 
-# iOS 14.5
+## iOS 14.5
 
 This table only contain sizes for very few devices because widgets generally don't seem to have changed sizes between iOS 14.5 and iOS 15 on the iPhones.
 
@@ -59,7 +59,7 @@ This table only contain sizes for very few devices because widgets generally don
 |iPod touch (7th generation)|640 x 1136||||
 |iPod touch (7th generation)|||||
 
-# iPadOS 15
+## iPadOS 15
 
 |Device|Resolution|Small|Medium|Large|Extra Large|
 |-|-|-|-|-|-|
@@ -85,7 +85,7 @@ This table only contain sizes for very few devices because widgets generally don
 |iPad Air (3rd generation)|2048 x 1536|150 x 150|328 x 150|328 x 328|682 x 328|
 |iPad Air 2|2048 x 1536|141 x 141|306 x 141|306 x 306|635 x 306|
 
-# iPadOS 14.5
+## iPadOS 14.5
 
 |Device|Resolution|Small|Medium|Large|
 |-|-|-|-|-|
