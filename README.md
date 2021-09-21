@@ -6,17 +6,17 @@ The sizes of widgets for select iPhones and iPads. The sizes where measured usin
 
 ||Resolution|Small|Medium|Large|
 |-|-|-|-|-|
-|iPhone 13|1170 x 2532||||
+|iPhone 13|1170 x 2532|158 x 158|338 x 158|338 x 354|
 |iPhone 13 mini|1080 x 2340|155 x 155|329 x 155|329 x 345|
 |iPhone 13 Pro|1170 x 2532|158 x 158|338 x 158|338 x 354|
 |iPhone 13 Pro Max|1284 x 2778|170 x 170|364 x 170|364 x 382|
 |iPhone 12|1170 x 2532||||
 |iPhone 12 mini|1080 x 2340||||
-|iPhone 12 Pro|1170 x 2532||||
+|iPhone 12 Pro|1170 x 2532|155 x 155|329 x 155|329 x 345|
 |iPhone 12 Pro Max|1284 x 2778||||
 |iPhone 11|828 x 1792||||
 |iPhone 11 Pro|1125 x 2436||||
-|iPhone 11 Pro Max|1242 x 2688||||
+|iPhone 11 Pro Max|1242 x 2688|169 x 169|360 x 169|360 x 379|
 |iPhone Xs|1125 x 2436||||
 |iPhone Xs Max|1242 x 2688||||
 |iPhone Xr|828 x 1792||||
