@@ -5,7 +5,7 @@
 |iPhone 13|1170 x 2532||||
 |iPhone 13 mini|1080 x 2340||||
 |iPhone 13 Pro|1170 x 2532||||
-|iPhone 13 Pro Max||1284 x 2778|||
+|iPhone 13 Pro Max|1284 x 2778||||
 |iPhone 12|1170 x 2532||||
 |iPhone 12 mini|1080 x 2340||||
 |iPhone 12 Pro|1170 x 2532||||
