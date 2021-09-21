@@ -91,11 +91,11 @@ This table only contain sizes for very few devices because widgets generally don
 |-|-|-|-|-|
 |iPad Pro 12.9-inch (5th generation)|2732 x 2048|170 x 170|364 x 170|364 x 382|
 |iPad Pro 11-inch (3rd generation)|2388 x 1668|155 x 155|329 x 155|329 x 345|
-|iPad Pro 12.9-inch (4th generation)|2732 x 2048||||
+|iPad Pro 12.9-inch (4th generation)|2732 x 2048|170 x 170|364 x 170|364 x 382|
 |iPad Pro 11-inch (2nd generation)|2388 x 1668|155 x 155|329 x 155|329 x 345|
-|iPad Pro 12.9-inch (3rd generation)|2732 x 2048||||
+|iPad Pro 12.9-inch (3rd generation)|2732 x 2048|170 x 170|364 x 170|364 x 382|
 |iPad Pro 11-inch (1st generation)|2388 x 1668|155 x 155|329 x 155|329 x 345|
-|iPad Pro 12.9-inch (2nd generation)|2732 × 2048||||
+|iPad Pro 12.9-inch (2nd generation)|2732 × 2048|170 x 170|364 x 170|364 x 382|
 |iPad Pro 12.9-inch (1st generation)|2732 × 2048|170 x 170|364 x 170|364 x 382|
 |iPad Pro 10.5-inch|2224 x 1668|155 x 155|329 x 155|329 x 345|
 |iPad Pro 9.7-inch|2048 x 1536|155 x 155|329 x 155|329 x 345|
