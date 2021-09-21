@@ -6,7 +6,7 @@
 
 ||Resolution|Small|Medium|Large|Extra Large|
 |-|-|-|-|-|-|
-|iPad Pro 12.9-inch (5th generation)|2732 x 2048|||||
+|iPad Pro 12.9-inch (5th generation)|2732 x 2048|170 x 170|379 x 170|379 x 379|795 x 379|
 |iPad Pro 11-inch (3rd generation)|2388 x 1668|||||
 |iPad Pro 12.9-inch (4th generation)|2732 x 2048|||||
 |iPad Pro 11-inch (2nd generation)|2388 x 1668|||||
