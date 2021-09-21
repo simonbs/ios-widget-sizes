@@ -2,55 +2,55 @@
 
 ||Resolution|Small|Medium|Large|
 |-|-|-|-|-|
-|iPhone 13|||||
-|iPhone 13 mini|||||
-|iPhone 13 Pro|||||
-|iPhone 13 Pro Max|||||
-|iPhone 12|||||
-|iPhone 12 mini|||||
-|iPhone 12 Pro|||||
-|iPhone 12 Pro Max|||||
-|iPhone 11|||||
-|iPhone 11 Pro|||||
-|iPhone 11 Pro Max|||||
-|iPhone Xs|||||
-|iPhone Xs Max|||||
-|iPhone Xr|||||
-|iPhone X|||||
-|iPhone 8|||||
-|iPhone 8 Plus|||||
-|iPhone 7|||||
-|iPhone 7 Plus|||||
-|iPhone 6s|||||
-|iPhone 6s Plus|||||
-|iPhone SE (1st generation)|||||
-|iPhone SE (2nd generation)|||||
-|iPod touch (7th generation)|||||
+|iPhone 13|1170 x 2532||||
+|iPhone 13 mini|1080 x 2340||||
+|iPhone 13 Pro|1170 x 2532||||
+|iPhone 13 Pro Max||1284 x 2778|||
+|iPhone 12|1170 x 2532||||
+|iPhone 12 mini|1080 x 2340||||
+|iPhone 12 Pro|1170 x 2532||||
+|iPhone 12 Pro Max|1284 x 2778||||
+|iPhone 11|828 x 1792||||
+|iPhone 11 Pro|1125 x 2436||||
+|iPhone 11 Pro Max|1242 x 2688||||
+|iPhone Xs|1125 x 2436||||
+|iPhone Xs Max|1242 x 2688||||
+|iPhone Xr|828 x 1792||||
+|iPhone X|1125 x 2436||||
+|iPhone 8|750 x 1334||||
+|iPhone 8 Plus|1080 x 1920||||
+|iPhone 7|750 x 1334||||
+|iPhone 7 Plus|1080 x 1920||||
+|iPhone 6s|750 x 1334||||
+|iPhone 6s Plus|1080 x 1920||||
+|iPhone SE (1st generation)|640 x 1136||||
+|iPhone SE (2nd generation)|1334 x 750||||
+|iPod touch (7th generation)|640 x 1136||||
 
 # iOS 14.5
 
-
 ||Resolution|Small|Medium|Large|
 |-|-|-|-|-|
-|iPhone 12|||||
-|iPhone 12 mini|||||
-|iPhone 12 Pro|||||
-|iPhone 12 Pro Max|||||
-|iPhone 11|||||
-|iPhone 11 Pro|||||
-|iPhone 11 Pro Max|||||
-|iPhone Xs|||||
-|iPhone Xs Max|||||
-|iPhone Xr|||||
-|iPhone X|||||
-|iPhone 8|||||
-|iPhone 8 Plus|||||
-|iPhone 7|||||
-|iPhone 7 Plus|||||
-|iPhone 6s|||||
-|iPhone 6s Plus|||||
-|iPhone SE (1st generation)|||||
-|iPhone SE (2nd generation)|||||
+|iPhone 12|1170 x 2532||||
+|iPhone 12 mini|1080 x 2340||||
+|iPhone 12 Pro|1170 x 2532||||
+|iPhone 12 Pro Max|1284 x 2778||||
+|iPhone 11|828 x 1792||||
+|iPhone 11 Pro|1125 x 2436||||
+|iPhone 11 Pro Max|1242 x 2688||||
+|iPhone Xs|1125 x 2436||||
+|iPhone Xs Max|1242 x 2688||||
+|iPhone Xr|828 x 1792||||
+|iPhone X|1125 x 2436||||
+|iPhone 8|750 x 1334||||
+|iPhone 8 Plus|1080 x 1920||||
+|iPhone 7|750 x 1334||||
+|iPhone 7 Plus|1080 x 1920||||
+|iPhone 6s|750 x 1334||||
+|iPhone 6s Plus|1080 x 1920||||
+|iPhone SE (1st generation)|640 x 1136||||
+|iPhone SE (2nd generation)|1334 x 750||||
+|iPod touch (7th generation)|640 x 1136||||
 |iPod touch (7th generation)|||||
 
 # iPadOS 15
