@@ -1,3 +1,7 @@
+# iOS Widget Sizes
+
+The sizes of widgets for select iPhones and iPads. The sizes where measured using the GeometryReader in SwiftUI.
+
 # iOS 15
 
 ||Resolution|Small|Medium|Large|
