@@ -24,5 +24,5 @@
 |iPad mini (5th generation)|2048 x 1536|158 x 158|338 x 158|338 x 354|
 |iPad mini 4|2048 x 1536|158 x 158|338 x 158|338 x 354|
 |iPad Air (4th generation)|2360 x 1640|155 x 155|329 x 155|329 x 345|
-|iPad Air (3rd generation)|2048 x 1536||||
+|iPad Air (3rd generation)|2048 x 1536|155 x 155|329 x 155|329 x 345|
 |iPad Air 2|2048 x 1536||||
