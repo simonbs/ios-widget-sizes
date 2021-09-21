@@ -99,7 +99,6 @@ This table only contain sizes for very few devices because widgets generally don
 |iPad Pro 12.9-inch (1st generation)|2732 × 2048|170 x 170|364 x 170|364 x 382|
 |iPad Pro 10.5-inch|2224 x 1668|155 x 155|329 x 155|329 x 345|
 |iPad Pro 9.7-inch|2048 x 1536||||
-|iPad (9th generation)|2160 x 1620||||
 |iPad (8th generation)|2160 x 1620|155 x 155|329 x 155|329 x 345|
 |iPad (7th generation)|2160 x 1620||||
 |iPad (6th generation)|2048 x 1536||||
