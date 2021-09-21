@@ -14,15 +14,15 @@ The sizes of widgets for select iPhones and iPads. The sizes where measured usin
 |iPhone 12 mini|1080 x 2340||||
 |iPhone 12 Pro|1170 x 2532|155 x 155|329 x 155|329 x 345|
 |iPhone 12 Pro Max|1284 x 2778||||
-|iPhone 11|828 x 1792||||
+|iPhone 11|828 x 1792|169 x 169|360 x 169|360 x 379|
 |iPhone 11 Pro|1125 x 2436||||
 |iPhone 11 Pro Max|1242 x 2688|169 x 169|360 x 169|360 x 379|
 |iPhone Xs|1125 x 2436||||
 |iPhone Xs Max|1242 x 2688||||
-|iPhone Xr|828 x 1792||||
+|iPhone Xr|828 x 1792|169 x 169|360 x 169|360 x 379|
 |iPhone X|1125 x 2436||||
-|iPhone 8|750 x 1334||||
-|iPhone 8 Plus|1080 x 1920||||
+|iPhone 8|750 x 1334|148 x 148|321 x 148|321 x 324|
+|iPhone 8 Plus|1080 x 1920|157 x 157|348 x 157|348 x 351|
 |iPhone 7|750 x 1334||||
 |iPhone 7 Plus|1080 x 1920||||
 |iPhone 6s|750 x 1334||||
@@ -32,6 +32,8 @@ The sizes of widgets for select iPhones and iPads. The sizes where measured usin
 |iPod touch (7th generation)|640 x 1136|141 x 141|292 x 141|292 x 311|
 
 # iOS 14.5
+
+This table is missing a lot of devices because widgets generally don't seem to have changed sizes between iOS 14.5 and iOS 15 on the iPhones. That assumption could be wrong though.
 
 ||Resolution|Small|Medium|Large|
 |-|-|-|-|-|
