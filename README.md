@@ -4,7 +4,7 @@ The sizes of widgets for select iPhones and iPads. The sizes where measured usin
 
 # iOS 15
 
-||Resolution|Small|Medium|Large|
+|Device|Resolution|Small|Medium|Large|
 |-|-|-|-|-|
 |iPhone 13|1170 x 2532|158 x 158|338 x 158|338 x 354|
 |iPhone 13 mini|1080 x 2340|155 x 155|329 x 155|329 x 345|
@@ -35,7 +35,7 @@ The sizes of widgets for select iPhones and iPads. The sizes where measured usin
 
 This table only contain sizes for very few devices because widgets generally don't seem to have changed sizes between iOS 14.5 and iOS 15 on the iPhones.
 
-||Resolution|Small|Medium|Large|
+|Device|Resolution|Small|Medium|Large|
 |-|-|-|-|-|
 |iPhone 12|1170 x 2532|158 x 158|338 x 158|338 x 354|
 |iPhone 12 mini|1080 x 2340|155 x 155|329 x 155|329 x 345|
@@ -61,7 +61,7 @@ This table only contain sizes for very few devices because widgets generally don
 
 # iPadOS 15
 
-||Resolution|Small|Medium|Large|Extra Large|
+|Device|Resolution|Small|Medium|Large|Extra Large|
 |-|-|-|-|-|-|
 |iPad Pro 12.9-inch (5th generation)|2732 x 2048|170 x 170|379 x 170|379 x 379|795 x 379|
 |iPad Pro 11-inch (3rd generation)|2388 x 1668|155 x 155|342 x 155|342 x 342|716 x 342|
@@ -87,7 +87,7 @@ This table only contain sizes for very few devices because widgets generally don
 
 # iPadOS 14.5
 
-||Resolution|Small|Medium|Large|
+|Device|Resolution|Small|Medium|Large|
 |-|-|-|-|-|
 |iPad Pro 12.9-inch (5th generation)|2732 x 2048|170 x 170|364 x 170|364 x 382|
 |iPad Pro 11-inch (3rd generation)|2388 x 1668|155 x 155|329 x 155|329 x 345|
