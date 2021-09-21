@@ -3,9 +3,9 @@
 ||Resolution|Small|Medium|Large|
 |-|-|-|-|-|
 |iPhone 13|1170 x 2532||||
-|iPhone 13 mini|1080 x 2340||||
+|iPhone 13 mini|1080 x 2340|155 x 155|329 x 155|329 x 345|
 |iPhone 13 Pro|1170 x 2532||||
-|iPhone 13 Pro Max|1284 x 2778||||
+|iPhone 13 Pro Max|1284 x 2778|170 x 170|364 x 170|364 x 382|
 |iPhone 12|1170 x 2532||||
 |iPhone 12 mini|1080 x 2340||||
 |iPhone 12 Pro|1170 x 2532||||
@@ -24,8 +24,8 @@
 |iPhone 6s|750 x 1334||||
 |iPhone 6s Plus|1080 x 1920||||
 |iPhone SE (1st generation)|640 x 1136||||
-|iPhone SE (2nd generation)|1334 x 750||||
-|iPod touch (7th generation)|640 x 1136||||
+|iPhone SE (2nd generation)|1334 x 750|148 x 148|321 x 148|321 x 324|
+|iPod touch (7th generation)|640 x 1136|141 x 141|292 x 141|292 x 311|
 
 # iOS 14.5
 
