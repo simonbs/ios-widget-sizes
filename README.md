@@ -1,5 +1,9 @@
 # iOS Widget Sizes
 
+Please refer to Apple's Human Interface Guidelines to an overview of the widget sizes. The sizes can be found at https://developer.apple.com/design/human-interface-guidelines/widgets/overview/design/
+
+<hr/>
+
 The sizes of widgets for select iPhones and iPads. The sizes where measured using the GeometryReader in SwiftUI.
 
 ## iOS 15
